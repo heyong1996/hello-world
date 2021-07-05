@@ -1,4 +1,0 @@
-class Test
-public statis void main(String arg[]){
-  System.out.println("Hello World");
-}
